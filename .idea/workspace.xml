@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef46ab8e-774e-417f-8893-6bf5cba38ff1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/OrderManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/OrderManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/constants/ApplicationConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/constants/ApplicationConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/dto/request/OrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/dto/request/OrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/dto/response/OrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/dto/response/OrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/entities/LineItemEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/entities/LineItemEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/entities/OrderEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/entities/OrderEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/handler/CustomGlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/handler/CustomGlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/repository/LineItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/repository/LineItemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/service/OrderServiceIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/service/OrderServiceIN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/service/OrderServiceUS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amzur/order_management/service/OrderServiceUS.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jPEbG3RXNIEwpQcHajU4qoNMjJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.OrderManagementApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Amzur/gateway",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="order-management" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="order-management" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="native,in" />
+      <module name="order_management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.amzur.order_management.OrderManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-f644763e9732-f719d367" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef46ab8e-774e-417f-8893-6bf5cba38ff1" name="Changes" comment="" />
+      <created>1721280380687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721280380687</updated>
+      <workItem from="1721280381612" duration="572000" />
+      <workItem from="1721282477515" duration="2655000" />
+      <workItem from="1721287127889" duration="35000" />
+      <workItem from="1721302853199" duration="601000" />
+      <workItem from="1721320819176" duration="3192000" />
+      <workItem from="1721577225194" duration="598000" />
+      <workItem from="1721807483290" duration="11000" />
+      <workItem from="1721809615453" duration="2667000" />
+      <workItem from="1721899995080" duration="2448000" />
+      <workItem from="1721909207120" duration="8000" />
+      <workItem from="1721909279376" duration="1237000" />
+      <workItem from="1721975377886" duration="391000" />
+      <workItem from="1722233190015" duration="770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
